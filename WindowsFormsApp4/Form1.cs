@@ -24,5 +24,9 @@ namespace WindowsFormsApp4
         {
 
         }
+        private void test1()
+        {
+
+        }
     }
 }
